@@ -1,0 +1,37 @@
+body{
+    background: #F1C2C2;
+    margin-left: 10px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 100px;
+}
+
+h1{
+    color: darkred; 
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.icone_contato{
+    width: 100px;
+}
+
+footer{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
